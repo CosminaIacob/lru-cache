@@ -5,6 +5,7 @@ import java.util.Map;
 
 /**
  * https://www.enjoyalgorithms.com/blog/implement-least-recently-used-cache
+ * https://www.callicoder.com/design-lru-cache-data-structure/#:~:text=LRU%20Cache%20implementation%20in%20Java&text=We'll%20use%20a%20HashMap,put(key%2C%20value)%20.
  * <p>
  * The Least Recently Used (LRU) Cache is a popular caching strategy
  * that discards the least recently used items first
